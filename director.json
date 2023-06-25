@@ -1,6 +1,5 @@
 {
-  "host": null,
-  "port": null,
+  "host": "hell",
   "file_name": null,
-  "desc" : "host start with (http/https), filename = python meterpreter payload"
+  "desc" : "host format 'http/https://IP:PORT', filename = python meterpreter payload"
 }
