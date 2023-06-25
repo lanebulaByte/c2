@@ -1,1 +1,6 @@
-{"host": "IP:PORT:FILE","desc" : "FILE = python meterpreter payload"}
+{
+  "host": null,
+  "port": null,
+  "file_name": null,
+  "desc" : "host start with (http/https), filename = python meterpreter payload"
+}
